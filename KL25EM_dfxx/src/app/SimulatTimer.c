@@ -1,7 +1,7 @@
 /*
- *文件：	SimulatTimer.c
- *目的：	实现一个毫秒模拟定时器
- *
+ * 文件：	SimulatTimer.c
+ * 目的：	实现一个毫秒模拟定时器
+ * 备注：   会占用额外的执行时间，根据效率和实际需求来衡量是否选择这个功能
  */
 
 #include "SimulatTimer.h"
